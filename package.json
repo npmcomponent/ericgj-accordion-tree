@@ -1,0 +1,19 @@
+{
+  "name": "ericgj-accordion-tree",
+  "description": "Multi-level accordion view (aka tree view)",
+  "version": "0.2.1",
+  "keywords": [],
+  "styles": [
+    "accordion-tree.css"
+  ],
+  "dependencies": {
+    "component-delegates": "git://github.com/npmcomponent/component-delegates.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-object": "git://github.com/npmcomponent/component-object.git",
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git",
+    "yields-isArray": "git://github.com/npmcomponent/yields-isArray.git"
+  },
+  "license": "MIT"
+}

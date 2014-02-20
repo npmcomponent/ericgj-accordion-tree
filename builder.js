@@ -1,5 +1,5 @@
-var ob = require('object')
-  , isArray = require('isArray');
+var ob = require('component-object')
+  , isArray = require('yields-isArray');
 
 var build = function(root,obj){
   if (typeof obj == 'object' && !isArray(obj)) {
